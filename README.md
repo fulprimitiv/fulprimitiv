@@ -13,8 +13,7 @@ Frontend-разработчик из Екатеринбурга, специал�
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
 [![SASS](https://img.shields.io/badge/SASS-%23C69D73.svg?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)&nbsp;
-[![Axios](https://img.shields.io/badge/Axios-%230A74BF.svg?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+[![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white)](https://en.bem.info/)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)&nbsp;
 [![Babel](https://img.shields.io/badge/Babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)&nbsp;
@@ -33,6 +32,7 @@ Frontend-разработчик из Екатеринбурга, специал�
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+[![YouGile](https://img.shields.io/badge/YouGile-1E90FF?style=for-the-badge&logoColor=white)](https://yougile.com/)&nbsp;
 
 ## 
 <br>
